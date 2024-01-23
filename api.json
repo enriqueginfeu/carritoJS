@@ -1,0 +1,50 @@
+[
+    {
+      "precio": 1250,
+      "id": 1,
+      "title": "Café P/llevar",
+      "img": "../img/cafe.webp"
+    },
+    {
+      "precio": 700,
+      "id": 2,
+      "title": "Alfajor Tri Shot",
+      "img": "../img/alfajor.webp"
+    },
+    {
+      "precio": 600,
+      "id": 3,
+      "title": "Agua Mineral Smart Water",
+      "img": "../img/agua.webp"
+    },
+    {
+      "precio": 840,
+      "id": 4,
+      "title": "Coca-Cola",
+      "img": "../img/gaseosa.webp"
+    },
+    {
+      "precio": 600,
+      "id": 5,
+      "title": "Galletitas Oreo",
+      "img": "../img/oreo.webp"
+    },
+    {
+      "precio": 700,
+      "id": 6,
+      "title": "Chicles Top Line",
+      "img": "../img/chicle.webp"
+    },
+    {
+      "precio": 350,
+      "id": 7,
+      "title": "Medialunas",
+      "img": "../img/medialuna.webp"
+    },
+    {
+      "precio": 900,
+      "id": 8,
+      "title": "Helado EPA!",
+      "img": "../img/helado.webp"
+    }
+  ]
